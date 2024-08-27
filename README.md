@@ -138,6 +138,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 #### 1.1.2. Perfiles de integrantes del equipo
 ### 1.2. Solution Profile
 #### 1.2.1 Antecedentes y problemática
+
 En el Perú, existe una problemática relacionada con un bajo uso de vehículos particulares, así como, una considerable cantidad de dificultades en el proceso de alquiler de automóviles. Según datos del Ministerio de Transportes y Comunicaciones de Perú, se estima que aproximadamente el 50% de los vehículos particulares en Lima, la capital, pasan la mayor parte del tiempo estacionados y sin uso. Esto representa una oportunidad significativa para aprovechar esos vehículos y reducir la congestión del tráfico urbano.
 
 **The 5’W’s & 2’H’s**
@@ -173,6 +174,9 @@ Los clientes utilizarán la plataforma cuando necesiten alquilar un vehículo po
 En Perú, según datos del Ministerio de Transportes y Comunicaciones, se estima que alrededor del 50% de los vehículos particulares en Lima, la capital, pasan la mayor parte del tiempo estacionados y sin uso. Esto representa un gran número de vehículos subutilizados que podrían ser aprovechados de manera más eficiente a través de un servicio de alquiler. Además, según datos del Registro de Propiedad Vehicular de la Superintendencia Nacional de los Registros Públicos (SUNARP) y la Asociación Automotriz del Perú (AAP), se estima que había alrededor de 3.5 millones de vehículos registrados en Perú hasta 2021. Este número incluye automóviles particulares, vehículos comerciales y otros tipos de vehículos.
 
 #### 1.2.2 Lean UX Process
+
+El lean UX process es un enfoque iterativo centrado en el usuario para el diseño de proyectos y productos. Este enfoque se basa en ciclos rápidos (sprints) de investigación, diseño y pruebas para validar la propuesta o ideas planteadas por el equipo. Estas propuestas estarán siempre orientadas a satisfacer las necesidades de los usuarios.
+
 ##### 1.2.2.1. Lean UX Problem Statements
 ##### 1.2.2.2. Lean UX Assumptions
 ##### 1.2.2.3. Lean UX Hypothesis Statements
