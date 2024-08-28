@@ -135,68 +135,124 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ### 1.1. Startup Profile
 #### 1.1.1. Descripción de la Startup
+
+<p align="justify">
+En nuestra startup, nos especializamos en identificar y resolver los problemas cotidianos que las personas enfrentan a diario. Nos apasiona hacer la vida más fácil, proporcionando soluciones innovadoras y eficientes que mejoren la calidad de vida.
+</p>
+
+<p align="justify">
+Nuestros proyectos están diseñados para simplificar tareas, optimizar procesos y ofrecer alternativas inteligentes que ahorran tiempo y recursos. Buscamos constantemente nuevas maneras de combinar tecnología, creatividad y practicidad para abordar los desafíos diarios de una manera efectiva y accesible para todos.
+</p>
+
+<p align="justify">
+Con un enfoque centrado en el usuario, nuestra misión es transformar lo complejo en simple, logrando un impacto positivo y tangible en la vida de nuestros clientes.
+</p>
+
 #### 1.1.2. Perfiles de integrantes del equipo
 ### 1.2. Solution Profile
 #### 1.2.1 Antecedentes y problemática
 
-En el Perú, existe una problemática relacionada con un bajo uso de vehículos particulares, así como, una considerable cantidad de dificultades en el proceso de alquiler de automóviles. Según datos del Ministerio de Transportes y Comunicaciones de Perú, se estima que aproximadamente el 50% de los vehículos particulares en Lima, la capital, pasan la mayor parte del tiempo estacionados y sin uso. Esto representa una oportunidad significativa para aprovechar esos vehículos y reducir la congestión del tráfico urbano.
+<p align="justify"> En Perú, especialmente en las zonas urbanas densamente pobladas como Lima, existe una notable subutilización de los vehículos particulares. De acuerdo con datos del Ministerio de Transportes y Comunicaciones, aproximadamente la mitad de los vehículos en Lima permanecen estacionados e inactivos la mayor parte del tiempo. Esta situación no solo implica un desaprovechamiento de recursos económicos para los propietarios, sino que también contribuye a la congestión urbana, al aumentar la necesidad de espacios de estacionamiento en una ciudad ya de por sí congestionada. </p> <p align="justify"> Por otro lado, el alquiler de automóviles en el país enfrenta diversos obstáculos. Los usuarios que buscan alquilar un vehículo temporalmente suelen enfrentarse a procesos complicados, opciones limitadas, y una falta de transparencia en las tarifas. Además, la oferta de vehículos en las agencias de alquiler tradicionales no siempre se ajusta a las necesidades de los usuarios, quienes cada vez demandan más flexibilidad y personalización en los servicios de alquiler. </p> <p align="justify"> En este escenario, se presenta una oportunidad significativa para desarrollar una plataforma que optimice el uso de los vehículos particulares y, al mismo tiempo, simplifique el proceso de alquiler para los usuarios. DriveNow surge como una solución que conecta a los propietarios de vehículos que no utilizan frecuentemente sus autos con personas que necesitan alquilar uno de manera rápida y eficiente. De esta manera, DriveNow no solo resuelve la problemática del subuso de vehículos particulares, sino que también mejora la experiencia de alquiler para los usuarios en Perú. </p>
+## Problemática en el Uso de Vehículos Particulares y Alquiler en Perú
 
-**The 5’W’s & 2’H’s**
+<p align="justify">
+En el Perú, existe una problemática relacionada con un bajo uso de vehículos particulares, así como una considerable cantidad de dificultades en el proceso de alquiler de automóviles. Según datos del Ministerio de Transportes y Comunicaciones de Perú, se estima que aproximadamente el 50% de los vehículos particulares en Lima, la capital, pasan la mayor parte del tiempo estacionados y sin uso. Esto representa una oportunidad significativa para aprovechar esos vehículos y reducir la congestión del tráfico urbano.
+</p>
 
-**What (Qué)**
+### The 5’W’s & 2’H’s
+
+#### What (Qué)
 **¿Cuál es el problema?/¿Cuál es la relación con la persona en cuestión?**
-El problema es el bajo uso de vehículos particulares en Perú y las complicaciones en el proceso tradicional de alquiler de automóviles. La relación que se establece entre el problema y los propietarios de vehículos. Es que sus automóviles no se utilizan eficientemente, por otro lado el problema se extiende a los diversos usuarios que buscan alquilar vehículos de manera conveniente.
 
-**When (Cuando)**
+<p align="justify">
+El problema es el bajo uso de vehículos particulares en Perú y las complicaciones en el proceso tradicional de alquiler de automóviles. La relación que se establece entre el problema y los propietarios de vehículos es que sus automóviles no se utilizan eficientemente. Por otro lado, el problema se extiende a los diversos usuarios que buscan alquilar vehículos de manera conveniente.
+</p>
+
+#### When (Cuándo)
 **¿Cuándo sucede el problema?/¿Cuándo utiliza el cliente el producto?**
 
-Tanto el bajo uso de vehículos particulares, como las complicaciones en el proceso de alquiler de automóviles para usuarios que necesitan vehículos de manera temporal ocurren a diario en Perú.  Los usuarios utilizarán la plataforma de alquiler de vehículos cuando necesiten un automóvil por un período corto.
+<p align="justify">
+Tanto el bajo uso de vehículos particulares como las complicaciones en el proceso de alquiler de automóviles para usuarios que necesitan vehículos de manera temporal ocurren a diario en Perú. Los usuarios utilizarán la plataforma de alquiler de vehículos cuando necesiten un automóvil por un período corto.
+</p>
 
-**Where (Dónde)**
+#### Where (Dónde)
 **¿Dónde está el cliente cuando usa el producto?/¿A dónde se dirige?/¿Dónde surge el problema?**
 
+<p align="justify">
 Los usuarios estarán en diferentes ubicaciones en Perú cuando utilicen la plataforma para buscar y alquilar vehículos. La plataforma se dirige a usuarios en todo el territorio de Perú, inicialmente enfocándose en áreas urbanas como Lima y otras ciudades importantes. Esta problemática surge en hogares y estacionamientos en todo el país, mientras que las complicaciones en el alquiler surgen en las agencias tradicionales.
+</p>
 
-**Who (Quién)**
+#### Who (Quién)
 **¿Quiénes están involucrados?/¿A quiénes le sucede el problema?/¿Quién lo utilizará?**
 
-Propietarios de vehículos particulares, usuarios en búsqueda de alquiler de vehículos. Sucede tanto a los propietarios que desean generar ingresos con sus vehículos como a los usuarios que buscan una forma más accesible de alquilar autos. Será utilizado por  propietarios de vehículos y usuarios interesados en alquilarlo.
-**Why (Por qué)**
-**¿Cuál es la causa del problema?**
-El problema surge debido a la falta de una plataforma eficiente que permita la colaboración entre propietarios y usuarios de vehículos.
+<p align="justify">
+Propietarios de vehículos particulares y usuarios en búsqueda de alquiler de vehículos están involucrados. El problema sucede tanto a los propietarios que desean generar ingresos con sus vehículos como a los usuarios que buscan una forma más accesible de alquilar autos. La plataforma será utilizada por propietarios de vehículos y usuarios interesados en alquilarlos.
+</p>
 
-**How (Cómo)**
+#### Why (Por qué)
+**¿Cuál es la causa del problema?**
+
+<p align="justify">
+El problema surge debido a la falta de una plataforma eficiente que permita la colaboración entre propietarios y usuarios de vehículos.
+</p>
+
+#### How (Cómo)
 **¿En qué condiciones los clientes usan nuestro producto?/¿Cómo nos conocieron los compradores?/¿Cómo prefieren los usuarios acceder a nuestro servicio?/¿Qué llevó a la persona a llegar a esta situación?**
 
-Los clientes utilizarán la plataforma cuando necesiten alquilar un vehículo por un período corto. Los compradores nos conocerán a través de campañas de marketing digital, recomendaciones de usuarios existentes y asociaciones con empresas relacionadas. Los usuarios prefieren acceder a nuestro servicio a través de una aplicación móvil o un sitio web fácil de usar. La necesidad de generar ingresos extra o la búsqueda de una solución más conveniente y una forma más económica para el alquiler de vehículos.
+<p align="justify">
+Los clientes utilizarán la plataforma cuando necesiten alquilar un vehículo por un período corto. Los compradores nos conocerán a través de campañas de marketing digital, recomendaciones de usuarios existentes y asociaciones con empresas relacionadas. Los usuarios prefieren acceder a nuestro servicio a través de una aplicación móvil o un sitio web fácil de usar. La necesidad de generar ingresos extra o la búsqueda de una solución más conveniente y económica para el alquiler de vehículos los llevará a utilizar la plataforma.
+</p>
 
-**How much (Cuánto)**
+#### How much (Cuánto)
+
+<p align="justify">
 En Perú, según datos del Ministerio de Transportes y Comunicaciones, se estima que alrededor del 50% de los vehículos particulares en Lima, la capital, pasan la mayor parte del tiempo estacionados y sin uso. Esto representa un gran número de vehículos subutilizados que podrían ser aprovechados de manera más eficiente a través de un servicio de alquiler. Además, según datos del Registro de Propiedad Vehicular de la Superintendencia Nacional de los Registros Públicos (SUNARP) y la Asociación Automotriz del Perú (AAP), se estima que había alrededor de 3.5 millones de vehículos registrados en Perú hasta 2021. Este número incluye automóviles particulares, vehículos comerciales y otros tipos de vehículos.
+</p>
 
-#### 1.2.2 Lean UX Process
+### Lean UX Process
 
+<p align="justify">
 El lean UX process es un enfoque iterativo centrado en el usuario para el diseño de proyectos y productos. Este enfoque se basa en ciclos rápidos (sprints) de investigación, diseño y pruebas para validar la propuesta o ideas planteadas por el equipo. Estas propuestas estarán siempre orientadas a satisfacer las necesidades de los usuarios.
+</p>
 
-##### 1.2.2.1. Lean UX Problem Statements
+#### Lean UX Problem Statements
 
 **Problem statement 1: Falta de Confianza en el Proceso de Alquiler**
+
+<p align="justify">
 Los propietarios pueden sentir inseguridad al entregar sus vehículos a extraños, mientras que los arrendatarios pueden preocuparse por el estado del vehículo y el cumplimiento del contrato. Esto puede llevar a una baja adopción de la plataforma. Es esencial establecer mecanismos de verificación de identidad y confiabilidad, así como implementar políticas claras de seguro y reembolso en caso de daños.
+</p>
 
 **Problem statement 2: Selección de Vehículos Apropiados**
+
+<p align="justify">
 Los usuarios pueden encontrarse con una amplia variedad de vehículos en la plataforma, lo que dificulta encontrar el más adecuado para sus necesidades. Esto puede resultar en una experiencia frustrante y llevar a los usuarios a abandonar la búsqueda. Una solución sería permitir la aplicación de filtros específicos, como tipo de vehículo, capacidad, características y ubicación, para ayudar a los usuarios a encontrar rápidamente lo que necesitan.
+</p>
 
 **Problem statement 3: Proceso de Pago y Tarifas Claras**
+
+<p align="justify">
 Los usuarios pueden abandonar el proceso de alquiler si no comprenden completamente cómo se calculan las tarifas o si no son claras. Una solución es simplificar el proceso de pago y presentar las tarifas de manera transparente, mostrando cualquier cargo adicional de manera clara antes de que los usuarios confirmen su alquiler.
+</p>
 
 **Problem statement 4: Verificación de Identidad y Antecedentes**
- 
+
+<p align="justify">
 Aunque es necesario llevar a cabo verificaciones de antecedentes para construir confianza entre las partes, este proceso puede llevar mucho tiempo y desanimar a los usuarios. Para abordar este problema, se podría explorar la posibilidad de integrar tecnologías de verificación más rápidas y confiables, como la verificación biométrica y el uso de bases de datos públicas para antecedentes penales.
+</p>
 
 **Problem statement 5: Interfaz Intuitiva y Fácil de Usar**
-Una interfaz complicada y abarrotada puede abrumar a los usuarios, especialmente aquellos que no están familiarizados con plataformas de alquiler en línea. La solución implica adoptar un diseño centrado en el usuario que guíe a los usuarios de manera clara y lógica a través de cada paso del proceso de alquiler, limitando la cantidad de información presentada en cada etapa. Una posible solución sería agregar elementos gráfico e interactivos.
+
+<p align="justify">
+Una interfaz complicada y abarrotada puede abrumar a los usuarios, especialmente aquellos que no están familiarizados con plataformas de alquiler en línea. La solución implica adoptar un diseño centrado en el usuario que guíe a los usuarios de manera clara y lógica a través de cada paso del proceso de alquiler, limitando la cantidad de información presentada en cada etapa. Una posible solución sería agregar elementos gráficos e interactivos.
+</p>
 
 **Problem statement 6: Gestión de Reseñas y Calificaciones**
+
+<p align="justify">
 Las reseñas y calificaciones son fundamentales para construir confianza, pero existe el riesgo de reseñas falsas o injustas. Para abordar este desafío, podríamos implementar sistemas de verificación de reseñas y fomentar la retroalimentación constructiva. Además, se podrían tomar medidas contra el abuso de reseñas falsas, como verificar la autenticidad de las transacciones antes de permitir reseñas.
+</p>
+
 
 ##### 1.2.2.2. Lean UX Assumptions
 
